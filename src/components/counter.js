@@ -26,7 +26,11 @@ export const Counter = ({ counter, inc, res }) => {
           >
           </button>
         </div>
+        <div className="divFreepik">
+          <a className="linkFreepik" href="http://www.freepik.com">Background designed by lukasdedi / Freepik</a>
+        </div>
       </div>
+
     )
   };
 
