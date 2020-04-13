@@ -70,14 +70,3 @@ body {
   border-radius: 50%;
   outline: none;
 }
-.divFreepik {
-  position: absolute;
-  bottom: 0;
-  width: 99%;
-}
-.linkFreepik {
-  color: white;
-  text-decoration: none;
-  cursor: text;
-  pointer-events: none;
-}
